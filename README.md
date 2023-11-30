@@ -40,7 +40,7 @@
 
    
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,vscode,eclipse,github,lua" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,eclipse,github,lua" />
     </a>
 
 <br>
