@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Olá, sou o Tiago! </b><img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="40"></h1>
+<h1 align="center"><b>Olá, sou o Tiago! </b><img src="http://25.media.tumblr.com/tumblr_m6pba10P1P1ra452ho1_500.gif" width="40"></h1>
 
 
 
@@ -10,14 +10,14 @@
 	
 ##  **Sobre mim**
 
-<picture> <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Farchive--40673202859185595%2F&psig=AOvVaw3HS-v5mL5KXzRdUeDwXn1b&ust=1701390705036000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj0i7e86oIDFQAAAAAdAAAAABAW" width = 250px></picture>
+<img align="right" src="https://64.media.tumblr.com/a341d1f767b05251792b7c021b06d909/tumblr_msavr9itu81scncwdo1_500.gifv" width = 250px>
 
 <br>
 
--Gosto de aprender coisas novas!
--Estou interessado em todas as áreas!
--Quero criar e publicar meus próprios jogos!
--Também quero criar programas e objetos para ajudar no dia a dia de todos!
+- Gosto de aprender coisas novas!
+- Estou interessado em todas as áreas!
+- Quero criar e publicar meus próprios jogos!
+- Também quero criar programas e objetos para ajudar no dia a dia de todos!
 
 <br><br>
 
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fdj-porygon2--8866530507618211%2F&psig=AOvVaw1vchlDt-U9lTFyU1mDoKR4&ust=1701394343843000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj2mP7J6oIDFQAAAAAdAAAAABAE">
+<img src="https://i.kym-cdn.com/photos/images/original/001/460/863/02c.gif">
 <br>
 <br>
 <br>
