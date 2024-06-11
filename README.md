@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Olá, sou o Tiago! </b><img src="http://25.media.tumblr.com/tumblr_m6pba10P1P1ra452ho1_500.gif" width="40"></h1>
+<h1 align="center"><b>Olá, sou o Tiago! </b><img src="http://25.media.tumblr.com/tumblr_m6pba10P1P1ra452ho1_500.gif" width="40"><b>Hello, I'm Tiago! </b><img src="http://25.media.tumblr.com/tumblr_m6pba10P1P1ra452ho1_500.gif" width="40"></h1>
 
 
 
