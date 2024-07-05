@@ -40,7 +40,7 @@
 
    
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,eclipse,github" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,pycharm,eclipse,replit,github,windows,linux,ubuntu" />
     </a>
 
 <br>
@@ -50,7 +50,7 @@
 - **O que vem aí pra aprender**:
 	
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cs,docker,nodejs,react,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=robloxstudio,arduino,cs,docker,nodejs,react,tailwind&perline=14" />
   </a>
 	
 <br>
