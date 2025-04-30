@@ -31,7 +31,7 @@
 - **Linguagens e Skills**:
     
   	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,mysql,html,css,java,godot,lua" />
+    <img src="https://skillicons.dev/icons?i=py,php,mysql,html,css,java,godot,lua,nodejs,react" />
   </a>
 
 <br>
@@ -40,7 +40,7 @@
 
    
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,pycharm,eclipse,replit,github,windows,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,pycharm,eclipse,replit,github,windows,linux,ubuntu,docker" />
     </a>
 
 <br>
@@ -50,7 +50,7 @@
 - **O que vem aí pra aprender**:
 	
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=robloxstudio,arduino,cs,docker,nodejs,react,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=robloxstudio,arduino,cs,tailwind&perline=14" />
   </a>
 	
 <br>
